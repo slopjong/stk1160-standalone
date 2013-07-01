@@ -1,3 +1,8 @@
+Update as of July 1st
+=====================
+
+Source updated to kernel 3.8 (taken from [here](http://www.cs.unca.edu/kernel/linux-3.8/drivers/media/usb/stk1160/)).
+
 IMPORTANT UPDATE
 ================
 
